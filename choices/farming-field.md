@@ -1,1 +1,1 @@
-Great, you built your farm. Now thieves broke into your property and killed everyone. [Click here to start over](../../yourKingdom.)
+Great, you built your farm. Now thieves broke into your property and killed everyone. [Click here to start over](../../yourKingdom.md)
