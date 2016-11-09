@@ -1,1 +1,1 @@
-You chose to build your farm. You now have a choice to build a [barn](../barn.md) or a [farming field](../farming-field.md)
+You chose to build your farm. You now have a choice to build a [barn](barn.md) or a [farming field](farming-field.md)
