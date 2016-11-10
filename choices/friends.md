@@ -1,1 +1,1 @@
-You decided to share your kingdom with your friends, and now you guys hate eachother for always fighting over land.
+You decided to share your kingdom with your friends, and now you guys hate eachother for always fighting over land. [Click here to start over](../README.md)

@@ -1,1 +1,1 @@
-You chose to not have anybody with you, so now you die alone.
+You chose to not have anybody with you, so now you die alone. [Click here to start over](../README.md)
