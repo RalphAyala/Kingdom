@@ -1,0 +1,1 @@
+Great! You built a fence protecting yourself. Will you spread the word to your [friends]() or [family]() or [no one]()?
