@@ -1,0 +1,1 @@
+You decided to share your land with your family, but they kill you and take your fortune.
