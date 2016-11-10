@@ -1,0 +1,1 @@
+You chose to not have anybody with you, so now you die alone.
